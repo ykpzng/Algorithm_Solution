@@ -1,5 +1,5 @@
 # Algorithm Solutions
 
- 1 Palindrome
+  - Palindrome
   
-  > A palindrome is a word that is identical forward and backwards.
+    > A palindrome is a word that is identical forward and backwards.
